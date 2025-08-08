@@ -1,0 +1,43 @@
+[
+  {
+    "category": "Heating",
+    "subcategories": [
+      {
+        "name": "Gas Boiler",
+        "faults": [
+          {
+            "name": "No hot water",
+            "troubleshooting": "Check boiler pressure and reset the boiler if necessary."
+          },
+          {
+            "name": "Boiler leaking",
+            "troubleshooting": "Turn off boiler and isolate any leaking valves or pipes."
+          }
+        ]
+      },
+      {
+        "name": "Radiator",
+        "faults": [
+          {
+            "name": "Not heating up",
+            "troubleshooting": "Bleed the radiator using a radiator key."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Plumbing",
+    "subcategories": [
+      {
+        "name": "Toilet",
+        "faults": [
+          {
+            "name": "Blocked",
+            "troubleshooting": "Try using a plunger and ensure no foreign objects are blocking the toilet."
+          }
+        ]
+      }
+    ]
+  }
+]
